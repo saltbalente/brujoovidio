@@ -1,0 +1,8 @@
+<html>
+<head><title>302 Found</title><meta name="traceparent" content="00-99ba21f5e5797ab10000001762657990-99ba21f5e5797ab1-01"></head>
+<body>
+<center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+<script defer src="/.cloud/rum/otel-rum-exporter.js?v=1.0.1"></script>
+</body>
+</html>

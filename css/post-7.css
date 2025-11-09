@@ -1,0 +1,75 @@
+.elementor-kit-7{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#30863C;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;background-color:#000000;}.elementor-kit-7 e-page-transition{background-color:#FFBC7D;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */.main-header.col-full {
+    display: none!important;
+}.contacto22 {
+    position: fixed;
+    bottom: 0px;
+    z-index: 2222;
+    width: 100%;
+}#callnowbutton {
+    display: block;
+    max-width: 100%;
+    left: 1px;
+    height: 60px;
+    position: fixed;
+    bottom: -24px;
+    border-top: 2px solid #10b24b;
+    background: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2aWV3Qm94PSIwIDAgNjAgNjAiPjxwYXRoIGQ9Ik03LjEwNCAxNC4wMzJsMTUuNTg2IDEuOTg0YzAgMC0wLjAxOSAwLjUgMCAwLjk1M2MwLjAyOSAwLjc1Ni0wLjI2IDEuNTM0LTAuODA5IDIuMSBsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDE2LjUgMTcuNCAxOS44IDE5LjhsMTYuODEzIDEuMTQxYzAgMCAwIDAuNCAwIDEuMSBjLTAuMDAyIDAuNDc5LTAuMTc2IDAuOTUzLTAuNTQ5IDEuMzI3bC02LjUwNCA2LjUwNWMwIDAtMTEuMjYxIDAuOTg4LTI1LjkyNS0xMy42NzRDNi4xMTcgMjUuMyA3LjEgMTQgNy4xIDE0IiBmaWxsPSIjMDA2NzAwIi8+PHBhdGggZD0iTTcuMTA0IDEzLjAzMmw2LjUwNC02LjUwNWMwLjg5Ni0wLjg5NSAyLjMzNC0wLjY3OCAzLjEgMC4zNWw1LjU2MyA3LjggYzAuNzM4IDEgMC41IDIuNTMxLTAuMzYgMy40MjZsLTQuNzQgNC43NDJjMi4zNjEgMy4zIDUuMyA2LjkgOS4xIDEwLjY5OWMzLjg0MiAzLjggNy40IDYuNyAxMC43IDkuMSBsNC43NC00Ljc0MmMwLjg5Ny0wLjg5NSAyLjQ3MS0xLjAyNiAzLjQ5OC0wLjI4OWw3LjY0NiA1LjQ1NWMxLjAyNSAwLjcgMS4zIDIuMiAwLjQgMy4xMDVsLTYuNTA0IDYuNSBjMCAwLTExLjI2MiAwLjk4OC0yNS45MjUtMTMuNjc0QzYuMTE3IDI0LjMgNy4xIDEzIDcuMSAxMyIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==) center 1px no-repeat #10b24b;
+    background-size: auto;
+    background-size: auto;
+    background-position-x: left;
+    text-decoration: none;
+    box-shadow: 0 0 5px #888;
+    z-index: 2147483647;
+    background-size: 75px 31px;
+}span.NoButtonText {
+    width: 100%;
+    color: white;
+    font-size: 22px;
+    text-shadow: 1px 1px 2px black;
+    text-transform: inherit;
+    font-weight: bolder;
+    line-height: 1.5;
+    font-family: sans-serif;
+    margin: 60px;
+}a#callnowbutton2 {
+    float: right;
+    background: white;
+    width: 50%;
+    display: block;
+    max-width: 200px;
+    right: 1px;
+    border-bottom-right-radius: 40px;
+    border-top-right-radius: 40px;
+    height: 60px;
+    position: fixed;
+    bottom: -24px;
+    border-top: 2px solid #10b24b;
+    background: url(https://1.bp.blogspot.com/-6zXtqZYIfJc/Xpu8_b1blCI/AAAAAAAABeQ/I5Kc1Jk1XUobkKbiF916hdG5AXdWTEz4wCLcBGAsYHQ/s1600/whatsapp-icon-vector-7%2B%25281%2529.jpg) center 0 no-repeat #10b24b;
+    background-size: auto;
+    background-size: auto;
+    background-position-x: right;
+    text-decoration: none;
+    background-position: 143px 2px;
+    box-shadow: 0 0 5px #888;
+    z-index: 2147483647;
+    background-size: 32px 32px;
+    border-left: 2px solid white;
+}span.NoButtonText2 {
+    margin: 9px 30px;
+    width: 100%;
+    color: white;
+    font-size: 22px;
+    text-shadow: 1px 1px 2px black;
+    text-transform: inherit;
+    font-weight: bolder;
+    line-height: 1.7;
+    font-family: sans-serif;
+}span.NoButtonText2 {
+    text-align: left;
+}.cntn-wrp p, .cntn-wrp h2, .cntn-wrp button, .wp-block-buttons {
+    text-align: center;
+}.cntn-wrp p {
+    text-align: justify;
+}.cntn-wrp {
+    text-align: center;
+}/* End custom CSS */
